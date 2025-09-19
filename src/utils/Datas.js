@@ -95,9 +95,9 @@ const otherWorks = [
 
     {
         id: "1",
-        title: "Task-management",
+        title: "e-commerce",
         techStacks: "React js ",
-        appLink: "https://github.com/Partha033/Task-management-"
+        appLink: "https://github.com/Partha033/e-commerce"
     },
 ];
 
